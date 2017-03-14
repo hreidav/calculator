@@ -1,6 +1,8 @@
 	body{display: block;
 		background: lightgreen;
-		width: 400px;}
+		width: 400px;
+		margin: auto;}
+
 		#header{
 			height: 40px;
 			width: 312px;
