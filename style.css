@@ -2,6 +2,7 @@
 		background: lightgreen;}
 		#header{
 			height: 40px;
+			width: 312px;
 			margin: auto;
 			color: blue;
 		}
@@ -10,7 +11,7 @@
 			top: 0px;}
 		footer{
 			margin: auto;
-			width: 100%;
+			width: 400px;
 			text-align: center;
 			margin: auto;
 			font-style: italic;
