@@ -1,0 +1,91 @@
+	body{display: block;
+		background: lightgreen;}
+		#header{
+			height: 40px;
+			margin: auto;
+			color: blue;
+		}
+		h2{text-align: center;
+			position: relative;
+			top: 0px;}
+		footer{
+			margin: auto;
+			width: 100%;
+			text-align: center;
+			margin: auto;
+			font-style: italic;
+		}
+		#displ{
+			width: 312px;
+			height: 90px;
+			background: lightgrey;
+			border: solid 1.5px;
+			border-color: darkgrey;
+			border-radius: 7px;
+			box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+			font-size: 30px;
+			text-align: right;
+			margin: auto;
+		}
+		#displ1, #displ2{
+			position: relative;
+			top: 5px;
+			left: 5px;
+			width: 300px;
+			height: 38px;
+			background: lightgrey;
+			font-size: 30px;
+			text-align: right;
+			/*margin: auto;*/
+		}
+
+		button{
+			width: 75px;
+			height: 75px;
+			border-radius: 7px;
+			border: solid 1.5px;
+			border-color: darkgrey;
+			box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+			font-size: 30px;
+		}
+
+		#but_form0{
+			height: 79px;
+			width: 314px;
+			/*border: solid;*/
+			margin: auto;
+		}
+
+		#but_form{/*position: absolute;
+			top: 230px;*/
+			height: 314px;
+			width: 314px;
+			/*border: solid;*/
+			margin: auto;
+		}
+		#btn_delete{position: relative; top: 0px;}
+		#btn_pow{position: relative; top: 4px;}
+		#btn_plus_minus{position: relative; top: 0px;}
+		#btn_sqr{position: relative; top: 0px;}
+
+		#btn7{position: relative; top: 4px;	}
+		#btn8{position: relative; top: 4px;	}
+		#btn9{position: relative; top: 4px;	}
+		#btnplus{position: relative; top: 4px;}
+
+		#btn4{position: relative; top: 8px;}
+		#btn5{position: relative; top: 8px;}
+		#btn6{position: relative; top: 8px;}
+		#btnminus{position: relative; top: 8px;}
+
+		#btn1{position: relative; top: 12px;}
+		#btn2{position: relative; top: 12px;}
+		#btn3{position: relative; top: 12px;}
+		#btnmultiple{position: relative; top: 12px;}
+		
+		#btncoma{position: relative; top: 16px;}
+		#btn0{position: relative; top: 16px;}
+		#btndivide{position: relative; top: 16px;}
+		#btnequilse{position: relative; top: 16px;}
+
+	
